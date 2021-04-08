@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jksarpanch/shopify/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/jksarpanch/shopify/static/js/main.d53aa5eb.chunk.js",
+    "main.js.map": "/jksarpanch/shopify/static/js/main.d53aa5eb.chunk.js.map",
+    "runtime-main.js": "/jksarpanch/shopify/static/js/runtime-main.459c5f3d.js",
+    "runtime-main.js.map": "/jksarpanch/shopify/static/js/runtime-main.459c5f3d.js.map",
+    "static/js/2.910eb6d6.chunk.js": "/jksarpanch/shopify/static/js/2.910eb6d6.chunk.js",
+    "static/js/2.910eb6d6.chunk.js.map": "/jksarpanch/shopify/static/js/2.910eb6d6.chunk.js.map",
+    "static/js/3.705cb397.chunk.js": "/jksarpanch/shopify/static/js/3.705cb397.chunk.js",
+    "static/js/3.705cb397.chunk.js.map": "/jksarpanch/shopify/static/js/3.705cb397.chunk.js.map",
+    "index.html": "/jksarpanch/shopify/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/jksarpanch/shopify/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.910eb6d6.chunk.js.LICENSE.txt": "/jksarpanch/shopify/static/js/2.910eb6d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jksarpanch/shopify/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.459c5f3d.js",
+    "static/js/2.910eb6d6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d53aa5eb.chunk.js"
+  ]
+}
